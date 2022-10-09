@@ -1,0 +1,15 @@
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\bin\Debug\net6.0\ukol_c8.exe
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\bin\Debug\net6.0\ukol_c8.deps.json
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\bin\Debug\net6.0\ukol_c8.runtimeconfig.json
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\bin\Debug\net6.0\ukol_c8.dll
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\bin\Debug\net6.0\ukol_c8.pdb
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.csproj.AssemblyReference.cache
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.AssemblyInfoInputs.cache
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.AssemblyInfo.cs
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.csproj.CoreCompileInputs.cache
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.dll
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\refint\ukol_c8.dll
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.pdb
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ukol_c8.genruntimeconfig.cache
+C:\Users\hanus\OneDrive\Plocha\Pivas\ukol_c8\obj\Debug\net6.0\ref\ukol_c8.dll
