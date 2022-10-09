@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adam\\.nuget\\packages\\": {}
+    "C:\\Users\\hanus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\pivas\\pivas\\Ukol č.7\\Ukol č.7.csproj",
+      "projectUniqueName": "C:\\Users\\hanus\\Desktop\\Pivas\\Pivas\\Ukol č.7\\Ukol č.7.csproj",
       "projectName": "Ukol č.7",
-      "projectPath": "C:\\Users\\Adam\\Desktop\\pivas\\pivas\\Ukol č.7\\Ukol č.7.csproj",
-      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam\\Desktop\\pivas\\pivas\\Ukol č.7\\obj\\",
+      "projectPath": "C:\\Users\\hanus\\Desktop\\Pivas\\Pivas\\Ukol č.7\\Ukol č.7.csproj",
+      "packagesPath": "C:\\Users\\hanus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hanus\\Desktop\\Pivas\\Pivas\\Ukol č.7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hanus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
