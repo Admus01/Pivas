@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 
 namespace consoleApp {
-    class cv9 {
+    class cv10 {
         static void Main() {
             WriteLine("Zadej retezec");
             string input = ReadLine();
