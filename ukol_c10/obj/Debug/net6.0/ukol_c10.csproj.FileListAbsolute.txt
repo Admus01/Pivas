@@ -1,0 +1,15 @@
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.csproj.AssemblyReference.cache
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.AssemblyInfoInputs.cache
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.AssemblyInfo.cs
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.csproj.CoreCompileInputs.cache
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\bin\Debug\net6.0\ukol_c10.exe
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\bin\Debug\net6.0\ukol_c10.deps.json
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\bin\Debug\net6.0\ukol_c10.runtimeconfig.json
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\bin\Debug\net6.0\ukol_c10.dll
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\bin\Debug\net6.0\ukol_c10.pdb
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.dll
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\refint\ukol_c10.dll
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.pdb
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ukol_c10.genruntimeconfig.cache
+C:\Users\hanus\Desktop\Pivas\Pivas\ukol_c10\obj\Debug\net6.0\ref\ukol_c10.dll
